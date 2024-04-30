@@ -11,6 +11,3 @@ This document served as an informative reference guide for developers using M2M 
 ## Link to document
 
 [M2M python library](pythonLibrary.md)
-
-> [!NOTE]
-> Due to proprietary content, all external links have been modified to go nowhere.
