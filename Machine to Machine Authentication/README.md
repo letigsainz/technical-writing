@@ -6,7 +6,10 @@ During my time on the developer productivity team, I helped create a Python3 lib
 
 ## Impact
 
-This document served as an informative reference guide for developers using M2M requests in their services. Additional documents were created alongside this guide, but I cannot include them due to proprietary content. Because of this, any external links will go nowhere.
+This document served as a reference guide for developers using M2M requests in their services. It resulted in widespread adoption of security best practices, as well as an increased level of autonomy across engineering teams.
+
+> [!NOTE]
+> Due to proprietary content, all external links have been modified to go nowhere.
 
 ## Link to document
 
